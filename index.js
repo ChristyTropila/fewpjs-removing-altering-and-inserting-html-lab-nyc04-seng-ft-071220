@@ -1,2 +1,5 @@
 // Write your code here!
-menu.remove()
+main.remove()
+let newHeader=document.createElement("h1")
+
+newHeader.className="Victory"
